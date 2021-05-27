@@ -2,7 +2,7 @@
 
 CTO @CapitalPaulistaRoleplay.
 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contato.capital-paulista@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.capital-paulista@gmail.com)](mailto:contato.capital-paulista@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
 
