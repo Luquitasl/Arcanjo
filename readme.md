@@ -8,7 +8,3 @@ Gerente de Desenvolvimento - @CapitalPaulistaRoleplay.
 
 Responsável pelo controle do banco de dados do servidor Capital Paulista Roleplay e lider de desenvolvimento em relação a gamemode do mesmo.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheArcanjo&show_icons=true&theme=black) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
