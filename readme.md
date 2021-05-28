@@ -6,6 +6,6 @@ Gerente de Desenvolvimento - @CapitalPaulistaRoleplay.
 
 [![Gmail Badge](https://img.shields.io/badge/contato.arcanjo@gmail.com-dbb284?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
-[![Twitter Badge](https://img.shields.io/badge/-@arcanjo-6633cc?style=flat-square&labelColor=dbb284&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+[![Twitter Badge](https://img.shields.io/badge/-@arcanjo-dbb284c?style=flat-square&labelColor=dbb284&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 
 Responsável pelo controle do banco de dados do servidor Capital Paulista Roleplay e lider de desenvolvimento em relação a gamemode do mesmo.
